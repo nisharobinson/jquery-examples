@@ -1,9 +1,7 @@
 # jQuery Examples
 
 ## Description
-Various examples of jQuery coding that may or may not be useful for people.
-
-## Examples
+Various small projects written in jQuery.
 
 ### jQuery Draggable
 Shows how to use the draggble UI element and how to abstract it to be reusable.
