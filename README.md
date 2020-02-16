@@ -1,4 +1,4 @@
-# jQuery Projcts
+# jQuery Projects
 
 ## Description
 Various small projects written in jQuery.
